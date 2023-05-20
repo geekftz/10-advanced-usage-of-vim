@@ -1,0 +1,40 @@
+1. hello world
+2. hello world
+3. hello world
+4. hello world
+5. hello world
+6. hello world
+7. hello world
+8. hello world
+9. hello world
+10. hello world
+
+steps:
+1. move cursor to number code
+2. press "ctrl" + "a" to increment
+3. press "ctrl" + "x" to decrement
+
+hello world
+
+
+echo $((1 + 2 + 3))
+
+steps:
+1. press codes need to be calculate
+2. press ":.!zsh"
+3. return value
+
+
+1 +
+2 +
+3 +
+4 +
+5 +
+6 +
+7 +
+8 +
+9 +
+
+steps:
+1. use visual mode to select multiple lines
+2. press "shift" + "j" to make multiple lines into one line

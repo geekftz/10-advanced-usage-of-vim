@@ -1,0 +1,7 @@
+./1.auto-complete
+
+
+steps:
+1. use visual mode to select path
+2. then press 'gp' or 'gf'
+3. jump to the target file

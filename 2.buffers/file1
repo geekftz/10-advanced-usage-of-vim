@@ -1,0 +1,7 @@
+this is file1
+
+
+:bnext --> go to next buffer file
+:bprevious
+:enew
+

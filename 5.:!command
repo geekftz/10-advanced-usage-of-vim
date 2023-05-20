@@ -1,0 +1,10 @@
+goodbye world
+hello world
+hi world
+
+
+steps:
+1. select target codes
+2. use ':!' + command
+3. maybe ':!sort | unique'
+3. execute
